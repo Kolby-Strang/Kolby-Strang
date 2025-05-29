@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kolby Strang
 - 👀 I’m interested in pretty much anything electronic
-- 🌱 I’m currently learning Full Stack Web Development!!
-- 💞️ I’m looking to collaborate on i have no idea yet
-- 📫 How to reach me idk yet im fresh outta highschool
+-  I’m currently employed with Stone Point Consulting
 
 <!---
 Kolby-Strang/Kolby-Strang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
